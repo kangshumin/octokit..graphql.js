@@ -1,6 +1,6 @@
 # graphql.js
 
-> GitHub GraphQL API client for browsers and Node
+> GitHub GraphQL API client for browsers and Node (**at branch `736d`**)
 
 [![@latest](https://img.shields.io/npm/v/@octokit/graphql.svg)](https://www.npmjs.com/package/@octokit/graphql)
 [![Build Status](https://github.com/octokit/graphql.js/workflows/Test/badge.svg)](https://github.com/octokit/graphql.js/actions?query=workflow%3ATest+branch%3Amaster)
