@@ -2,6 +2,7 @@
 
 > GitHub GraphQL API client for browsers and Node (**at branch `736d`;`736d.tiantian`**)
 <!-- Kang Lingchu  2020-08-12 15:55 Wednesday at sx.hs.ah.cn -->
+tt  2020-08-14 22:30 Friday at sx.hs.ah.cn
 
 [![@latest](https://img.shields.io/npm/v/@octokit/graphql.svg)](https://www.npmjs.com/package/@octokit/graphql)
 [![Build Status](https://github.com/octokit/graphql.js/workflows/Test/badge.svg)](https://github.com/octokit/graphql.js/actions?query=workflow%3ATest+branch%3Amaster)
